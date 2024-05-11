@@ -1,10 +1,10 @@
 name: FirstWorkFlow
 on: 
   push:
-  
+
 jobs: 
   first:
     runs-on: ubunto-latest
     steps:
-       -name: print
-        run: echo "mohamed"
+       - name: print
+         run: echo "mohamed"
