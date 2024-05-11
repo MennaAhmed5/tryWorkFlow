@@ -1,7 +1,6 @@
 name: FirstWorkFlow
 on: 
   push:
-
 jobs: 
   first:
     runs-on: ubunto-latest
